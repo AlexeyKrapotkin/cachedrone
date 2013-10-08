@@ -1,4 +1,4 @@
 
 #define BOARD	HK_MULTIWIPRO2
 
-#defita FRAME	TRI
+#define FRAME	TRI

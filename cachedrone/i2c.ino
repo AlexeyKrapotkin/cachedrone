@@ -1,3 +1,6 @@
+#define I2C_SPEED 100000L
+uint8_t rawADC[6];
+static int16_t  i2c_errors_count = 0;
 
 static uint32_t neutralizeTime = 0;
 
